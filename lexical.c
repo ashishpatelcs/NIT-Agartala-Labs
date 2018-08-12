@@ -3,6 +3,7 @@
     Date: 10/08/18
     Compiler Design Lab
     Program: Design a lexical analyzer for given language and the lexical analyzer should ignore redundant spaces, tabs and new lines. It should also ignore comments. Although the syntax specification states that identifiers can be arbitrarily long, you may restrict the length to some reasonable value. Simulate the same in C language.
+    ** WORK IN PROGRESS**
 */
 
 #include <stdio.h>
